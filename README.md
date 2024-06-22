@@ -43,8 +43,8 @@ SJF (Shortest Job First) selects the process with the shortest execution time to
 
 #### Characteristics
 - **Types**:
-  - **Non-preemptive**: Runs to completion without interruption.
-  - **Preemptive (Shortest Remaining Time First, SRTF)**: A new process with a shorter burst time can preempt the current process.
+- **Non-preemptive**: Runs to completion without interruption.
+- **Preemptive (Shortest Remaining Time First, SRTF)**: A new process with a shorter burst time can preempt the current process.
 - **Optimality**: Minimizes average waiting time.
 - **Queue Structure**: Managed based on burst times.
 - **Performance**: Lower average waiting time but can cause "starvation" for longer processes.
