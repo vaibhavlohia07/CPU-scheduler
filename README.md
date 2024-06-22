@@ -145,5 +145,6 @@ The code is in C++ and can be run through the terminal.
 ## Resources
 
 - [YouTube Playlist on CPU Scheduling]( https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk )
-- [Linux Kernel Development] (https://www.kernel.org/doc/html/v4.16/process/howto.html)
+- [Documentation](https://www.kernel.org/doc/html/v4.16/process/howto.html)
+- [Research on Improved Round Robin Scheduling Algorithm](https://www.researchgate.net/publication/49619229_An_Improved_Round_Robin_Schedduling_Algorithm_for_CPU_Scheduling)
 
